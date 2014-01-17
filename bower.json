@@ -1,0 +1,18 @@
+{
+  "name": "based-on",
+  "main": "index.js",
+  "description": "Create new object based on another",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kjbekkelund/based-on",
+  "authors": [
+    "Kim Joar Bekkelund <kjbekkelund@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
