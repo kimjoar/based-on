@@ -1,6 +1,6 @@
 {
   "name": "based-on",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create new object based on another",
   "main": "index.js",
   "dependencies": {},
