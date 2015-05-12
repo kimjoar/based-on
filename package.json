@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "description": "Create new object based on another",
   "main": "index.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "browserify": "~3.20.0",
     "tape": "~2.3.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "testem"
   },
