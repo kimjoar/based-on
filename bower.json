@@ -2,7 +2,7 @@
   "name": "based-on",
   "main": "index.js",
   "description": "Create new object based on another",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/kjbekkelund/based-on",
   "authors": [
     "Kim Joar Bekkelund <kjbekkelund@gmail.com>"
